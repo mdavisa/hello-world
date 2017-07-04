@@ -1,2 +1,2 @@
 # hello-world
-hello-world test
+hello-world is a wonderful app
